@@ -7,7 +7,7 @@ import "./App.css";
 
 function App() {
   return (
-    <HashRouter>
+    <HashRouter basename="/movie-app">
       <Navigation />
       <Route path="/" exact={true} component={Home} />
       <Route path="/movie/:id" component={Detail} />
