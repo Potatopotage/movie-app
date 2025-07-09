@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Potatopotage/movie-app/static/css/main.21dbaf0d.chunk.css",
-    "main.js": "/Potatopotage/movie-app/static/js/main.a74558f6.chunk.js",
-    "main.js.map": "/Potatopotage/movie-app/static/js/main.a74558f6.chunk.js.map",
-    "runtime~main.js": "/Potatopotage/movie-app/static/js/runtime~main.4cc692da.js",
-    "runtime~main.js.map": "/Potatopotage/movie-app/static/js/runtime~main.4cc692da.js.map",
-    "static/js/2.30f16af8.chunk.js": "/Potatopotage/movie-app/static/js/2.30f16af8.chunk.js",
-    "static/js/2.30f16af8.chunk.js.map": "/Potatopotage/movie-app/static/js/2.30f16af8.chunk.js.map",
-    "index.html": "/Potatopotage/movie-app/index.html",
-    "precache-manifest.c6a862b34d8438ab6d37a8ec015caa67.js": "/Potatopotage/movie-app/precache-manifest.c6a862b34d8438ab6d37a8ec015caa67.js",
-    "service-worker.js": "/Potatopotage/movie-app/service-worker.js",
-    "static/css/main.21dbaf0d.chunk.css.map": "/Potatopotage/movie-app/static/css/main.21dbaf0d.chunk.css.map"
+    "main.css": "/movie-app/static/css/main.21dbaf0d.chunk.css",
+    "main.js": "/movie-app/static/js/main.a74558f6.chunk.js",
+    "main.js.map": "/movie-app/static/js/main.a74558f6.chunk.js.map",
+    "runtime~main.js": "/movie-app/static/js/runtime~main.7dd63718.js",
+    "runtime~main.js.map": "/movie-app/static/js/runtime~main.7dd63718.js.map",
+    "static/js/2.30f16af8.chunk.js": "/movie-app/static/js/2.30f16af8.chunk.js",
+    "static/js/2.30f16af8.chunk.js.map": "/movie-app/static/js/2.30f16af8.chunk.js.map",
+    "index.html": "/movie-app/index.html",
+    "precache-manifest.d1c1fea8ef4a21592a5a44abfd73fef7.js": "/movie-app/precache-manifest.d1c1fea8ef4a21592a5a44abfd73fef7.js",
+    "service-worker.js": "/movie-app/service-worker.js",
+    "static/css/main.21dbaf0d.chunk.css.map": "/movie-app/static/css/main.21dbaf0d.chunk.css.map"
   }
 }
