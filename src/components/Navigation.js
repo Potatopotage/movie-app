@@ -4,10 +4,14 @@ import "./Navigation.css";
 
 function Navigation() {
   return (
-    <div className="nav">
-      <Link to="/">Home</Link>
-      <Link to="/about">About</Link>
-    </div>
+    <header className="header">
+      <div className="header__container">
+        <Link to="/" className="logo">
+          MovieApp
+        </Link>
+        {/* 오른쪽 메뉴 제거됨 */}
+      </div>
+    </header>
   );
 }
 
